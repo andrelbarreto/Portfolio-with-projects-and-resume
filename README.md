@@ -1,13 +1,24 @@
 # Portfolio-with-projects-and-resume
-This new version of profile is still under work but contains link to updated linkedin, a resume, and links to projects in portfolio
+This new version of portfolio contains link to updated linkedin, resume, as well as links to deployed projects in portfolio
 
-The best Northwestern University Bootcamp projects and homework assignments will be found within this portfolio.
+The Apps, Projects and Assignments found in this portfolio were built using :
+*HTML
+*CSS
+*Bootstrap
+*Javascript
+*SQL
+*Bootstrap
+*APIS from Google, Ticketmaster, Zomatto, Weatherlink, and curated APIs created for specific projects like CastCall
+*Mongoose
+*MongoDB
+*React
+*React-360 / React-VR
 
-The first is a Portfolio showcasing my skills being built during the Coding Bootcamp. In it you will find links to my projects, as well as more information about myself and my goals within the industry.
+This is a Portfolio showcasing skills built during the Northwestern University Coding Bootcamp. In it you will also find more information about myself and my goals within the industry.
 
-This Portfolio Repository starts with a bio page built using HTML and CSS Bootstrap.
-It allows interface with menu for more information in About me, to fill out contact forms under Contact, or to take a look at my portfolio as it grows during the course of the next few months.
+This Portfolio Repository started with just a bio page built using HTML and CSS Bootstrap.
+It allows interface with menu for more information in About me, to fill out contact forms under Contact, or to take a look at my Portfolio as it grew during the course of 6 months.
 
-It is effectively the first assignment for the Northwestern Coding Bootcamp and will constantly be updated. It now contains a portfolio with several projects linked to main page showcasing not only my skills in full stack web development but also how I apply my several years of expertise in Communications, Marketing and Digital Marketing to them.
+It is effectively the first assignment for the Northwestern Coding Bootcamp and was constantly updated.
 
 
